@@ -3,7 +3,7 @@
 A current mirror is a fundamental analog circuit used to copy or "mirror" the current from one active device (typically a transistor) to another, maintaining a consistent current regardless of variations in voltage or load. This is especially useful in analog integrated circuits for biasing and current regulation.
 
 # Key Components and Concepts
-Transistors (BJTs or MOSFETs):
+Transistors (BJTs or MOSFETs) :
 
 The current mirror typically uses bipolar junction transistors (BJTs) or metal-oxide-semiconductor field-effect transistors (MOSFETs).
 In a BJT current mirror, the transistors are usually matched to ensure that the current flowing through them is proportional.
